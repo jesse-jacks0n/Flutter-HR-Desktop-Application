@@ -4,6 +4,7 @@ a flutter hr desktop app
 
 for a successful run, install mongodb server and compass to your computer
 
+![Image Alt Text](hr desktop.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
